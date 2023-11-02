@@ -1,0 +1,39 @@
+.container{
+	width: 1271px;
+	margin: 0 auto;
+}
+il{
+	font-family: Roboto;
+	font-size: 11px;
+	font-weight: 700;
+	line-height: 13px;
+	letter-spacing: 0em;
+	text-align: left;
+	margin-right: 35px;
+}
+.sec1{
+	margin-top: 71px;
+}
+.h1{
+	font-family: Roboto;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28px;
+	letter-spacing: 0em;
+	text-align: left;
+}
+.img1{
+	width: 362px
+	height: 186px
+	top: -381px
+	left: -583px
+	border-radius: 5px, 5px, 0px, 0px
+}
+.div1{
+	width: 362px
+	height: 171px
+	top: -195px
+	left: -583px
+	border-radius: 0px, 0px, 5px, 5px
+	background: #FFFFFF;
+}
