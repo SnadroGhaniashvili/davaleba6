@@ -1,3 +1,6 @@
+body{
+	background-color: grey;
+}
 .container{
 	width: 1271px;
 	margin: 0 auto;
@@ -23,17 +26,23 @@ il{
 	text-align: left;
 }
 .img1{
-	width: 362px
-	height: 186px
-	top: -381px
-	left: -583px
-	border-radius: 5px, 5px, 0px, 0px
+	width: 362px;
+	height: 186px;
+	top: -381px;
+	left: -583px;
+	border-radius: 5px, 5px, 0px, 0px;
 }
 .div1{
-	width: 362px
-	height: 171px
-	top: -195px
-	left: -583px
-	border-radius: 0px, 0px, 5px, 5px
-	background: #FFFFFF;
+	width: 362px;
+	height: 171px;
+	border-radius: 0px, 0px, 5px, 5px;
+	background-color: #FFFFFF;
+}
+.p1{
+	padding-top: 68px;
+	padding-left: 37px;
+}
+.img2{
+	padding-top: 11px;
+	padding-left: 40px;
 }
